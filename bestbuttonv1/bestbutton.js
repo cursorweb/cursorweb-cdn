@@ -1,3 +1,7 @@
+/** 
+ * Created by coder100 on repl.it
+ * NOTE: You need jquery
+ */
 var bestButton = {
   styles: {},
   init: function(){
