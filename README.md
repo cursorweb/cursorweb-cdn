@@ -10,7 +10,7 @@ or
 ```html
 <script src="https://cdn.jsdelivr.net/gh/cursorweb/cursorweb-cdn/file/file.js"></script>
 ```
-[Click here](https://cdn.jsdelivr.net/gh/cursorweb/cursorweb-cdn/) to view the directory 
+[Click here](https://cdn.jsdelivr.net/gh/cursorweb/cursorweb-cdn/) to view the directory.  
 [Landing page](https://www.jsdelivr.com/package/gh/cursorweb/cursorweb-cdn) 
 
 ***
