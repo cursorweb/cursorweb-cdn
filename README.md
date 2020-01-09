@@ -11,7 +11,3 @@ or
 <script src="https://cdn.jsdelivr.net/gh/cursorweb/cursorweb-cdn/file/file.js"></script>
 ```
 [Click here](https://cdn.jsdelivr.net/gh/cursorweb/cursorweb-cdn/) to view the directory
-
-***
-
-*When we update a file, we will make a new release entirely.*
