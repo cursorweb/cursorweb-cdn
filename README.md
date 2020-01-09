@@ -11,7 +11,9 @@ or
 <script src="https://cdn.jsdelivr.net/gh/cursorweb/cursorweb-cdn/file/file.js"></script>
 ```
 [Click here](https://cdn.jsdelivr.net/gh/cursorweb/cursorweb-cdn/) to view the directory.  
-[Landing page](https://www.jsdelivr.com/package/gh/cursorweb/cursorweb-cdn) 
+[Landing page](https://www.jsdelivr.com/package/gh/cursorweb/cursorweb-cdn).  
+
+**If you would like to submit a new CDN, you may add a new issue.**
 
 ***
 
