@@ -49,8 +49,9 @@ Auth.prototype.append = function(){
   el.addEventListener("click", function(){
     var f = window.open("https://repl.it/auth_with_repl_site?domain="+self.domain, "_blank", "modal=yes,width=500,height=700,resizable=no,"+self.swin);
     window.addEventListener("message", function(e){
-      if(e.data != "auth_complete") this.err(e);
-      else this.done(e);
+      f.close();
+      if(e.data != "auth_complete") self.err(e);
+      else self.done(e);
     });
   });
   document.body.appendChild(el);
