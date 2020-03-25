@@ -11,10 +11,10 @@ new Auth([text, [class, [style, [window, [option]]]]])
 Creates a button that opens up a pop-up to a log in prompt;
 
 ## Arguments
-`STRING` - Text is the `innerHTML` of the button.
-`OBJECT` - Style is the inline style of the button.
-`OBJECT` - Window is the `window.open()` options.
-`OBJECT` - Option is the attributes of the button e.g. `data-auth="1"`.
+`STRING` - Text is the `innerHTML` of the button.  
+`OBJECT` - Style is the inline style of the button.  
+`OBJECT` - Window is the `window.open()` options.  
+`OBJECT` - Option is the attributes of the button e.g. `data-auth="1"`.  
 
 ## Example
 ```js
