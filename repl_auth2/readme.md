@@ -1,5 +1,5 @@
 # Get started
-Pretty simple
+Pretty simple authentications.
 ```javascript
 new Auth([text, [class, [style, [window, [option]]]]])
 [.append()]
